@@ -1,7 +1,7 @@
 # Credit Risk Prediction Using Machine Learning
 
 ## Overview
-This project aims to develop a machine learning model to determine the eligibility of individuals for loans based on their financial and personal information. The model is trained using a dataset that includes features such as age, education, work experience, address, income, etc. The project involves data visualization, data cleaning, and the application of the machine learning algorithm, Logistic Regression.
+This project aims to develop a machine learning model to determine the eligibility of individuals for loans based on their financial and personal information. The model is trained using a dataset that includes features such as age, education, work experience, income, etc. The project involves data visualization, data cleaning, and the application of the machine learning algorithm, Logistic Regression.
 
 ## Project Structure
 
